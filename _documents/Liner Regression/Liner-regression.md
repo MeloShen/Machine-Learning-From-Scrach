@@ -1,6 +1,6 @@
 # Implement the regression of linear function
 
-[Code](https://github.com/MeloShen/Machine-Learning-From-Scrach/blob/main/_documents/Liner%20Regression/regression.py）
+[Code](https://github.com/MeloShen/Machine-Learning-From-Scrach/blob/main/_documents/Liner%20Regression/regression.py)
 
 ## Confirm training data
 | x     | y     | x     | y     | x     | y     | x     | y     |
@@ -39,7 +39,8 @@ $\theta_{1}:\theta_{1}-\eta\sum_{i=1}^{n}(f_{\theta}(x^{(i)})-y^{(i)})$
 For $\eta$, we need to keep trying to get the definite value. After running for many times, we can compare the value of the target function. If there is no change, we can finish learning. And when the parameter is updated, the same iteration value must be used for $\theta _{0}$and $\theta _{0}$.
 
 ### The log
-[log.txt](https://github.com/MeloShen/Machine-Learning-From-Scrach/tree/main/_documents/Liner%20Regression)
+[log.txt](https://github.com/MeloShen/Machine-Learning-From-Scrach/blob/main/_documents/Liner%20Regression/log.text)
+
 It is 469: theta0 = 429.117,theta1 = 135.643,difference = 0.0134
 
 It is 470: theta0 = 429.118,theta1 = 135.659,difference = 0.0132
